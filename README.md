@@ -12,8 +12,10 @@ http://www.rediff.com/rss/moviesreviewsrss.xml
 ~~~
 
 ### Пример выполнения программы
-![rss1](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/18d04d5e-995d-44c5-942f-11fb9fc6d48d)
+![rss1](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/7ce3cc36-3003-4d55-8350-8705552b4b4c)
 
-![rss2](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/89ecce08-7333-4370-9638-b950befcac5e)
 
-![rss3](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/b91e9dd8-d144-47fa-b098-31af0dbb44b8)
+![rss2](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/ea979fbe-ef59-4072-9368-60388ee743bd)
+
+
+![rss3](https://github.com/Strong-Tea/RSS-Reader/assets/135996451/be90f64d-2445-4457-8934-06e1415ea13f)
